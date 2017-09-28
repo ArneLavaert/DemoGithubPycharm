@@ -6,3 +6,4 @@ loel
 bis
 
 print("doe diene bril aan!!!")
+zwijg
