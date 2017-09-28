@@ -5,4 +5,4 @@ loel
 
 bis
 
-doe diene bril aan!!!
+print("doe diene bril aan!!!")
